@@ -1,7 +1,4 @@
 
-# 💻Tech Stack
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormz26&hide_progress=false&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=stormz26&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stormz26&theme=radical&hide_border=false)<br/>
