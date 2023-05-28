@@ -9,7 +9,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
+### 😂Meme
 <img src="https://i.pinimg.com/originals/2e/c8/2e/2ec82e53453064759ec1cceb8e12d816.jpg" width="512px"/>
 
 ---
