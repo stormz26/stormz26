@@ -12,3 +12,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=stormz26&icon=0&color=0)](https://visitcount.itsvg.in)
+### Motivation
+Why are you afraid of your opponent. Simply because you do not have the strength to counterattack, if you have the ability, how can you be confident? And if so, why be afraid?
